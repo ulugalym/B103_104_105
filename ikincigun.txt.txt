@@ -4,3 +4,4 @@ Git Githup ikinci gun ikinci deneme
 Git Githup ikinci gun ucuncu deneme
 Git Githup ikinci gun ugulbek branch'i deneme
 Git Githup ikinci gun ugulbek main'i deneme
+Git Githup ikinci gun ugulbek branch'ikinci deneme
